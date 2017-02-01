@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    For git training tutorial.
 
 # TECHNOLOGY COLOPHON
 
